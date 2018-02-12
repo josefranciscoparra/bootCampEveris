@@ -1,1 +1,3 @@
 changelog de prueba
+
++Añadida nueva funcionalidad
